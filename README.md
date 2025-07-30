@@ -1,5 +1,6 @@
 ## 🌐 Pages Description
-
+link to web:
+https://pradee-07.github.io/E-cell_Tech-Task/
 ###
 Project Overview
 This is a front-end web project for the Startup Internship Program (SIP) by E-Cell, NIT Trichy.
